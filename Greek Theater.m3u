@@ -2,35 +2,41 @@
 
 #EXTM3U
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,ΣΕΣΟΥΑΡ ΓΙΑ ΔΟΛΟΦΟΝΟΥΣ - 1999
+plugin://plugin.video.youtube/?action=play_video&videoid=QSzeLO1DUAk
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,ΟΙ ΗΛΙΘΙΟΙ - Π.ΦΙΛΙΠΠΙΔΗΣ (2001)
+plugin://plugin.video.youtube/?action=play_video&videoid=r8KMZzm2quo
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,Και ο Σημίτης θέλει ...τον Γερμανό του
+plugin://plugin.video.youtube/?action=play_video&videoid=NIIigo2BUxY
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,Τι βρακί θα παραδώσεις μωρή ; (2001)
+plugin://plugin.video.youtube/?action=play_video&videoid=bYkdY0AlNPE
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,Η Σαλώμη φιλούσε υπέροχα - Σ.ΜΟΥΣΤΑΚΑΣ/Σ.ΨΑΛΤΗΣ(2000)
+plugin://plugin.video.youtube/?action=play_video&videoid=aoSG7l02AVc
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,ΠΟΥ ΠΑΣ ΓΙΩΡΓΑΚΗ ΜΕ ΤΕΤΟΙΟ ΚΑΙΡΟ
+plugin://plugin.video.youtube/?action=play_video&videoid=GbvIH_yz-zY
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,ΚΟΤΕΣ - Σ.ΜΟΥΣΤΑΚΑΣ/Σ.ΨΑΛΤΗΣ (2003)
+plugin://plugin.video.youtube/?action=play_video&videoid=7RvaqU537So
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,Η ΦΑΡΜΑ ΤΩΝ ΤΡΕΛΩΝ
+plugin://plugin.video.youtube/?action=play_video&videoid=m3JGN86Bc_c
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,ΠΑΣΟΚ ΜΟΥ SORRY - Μ.ΣΕΦΕΡΛΗΣ-Σ.ΜΟΥΣΤΑΚΑΣ(2003/2004)
+plugin://plugin.video.youtube/?action=play_video&videoid=5jiPu3y9mRw
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,Πενήντα Αποχρώσεις to Greece! (Μάρκος Σεφερλής - 2015)
+plugin://plugin.video.youtube/?action=play_video&videoid=t3Oo99CTOVs
 
-#EXTINF:1,
-plugin://plugin.video.youtube/?action=play_video&videoid=
+#EXTINF:1,Πήρε τοστ το Σαββατόβραδο (Μ.Σεφερλής - 2006)
+plugin://plugin.video.youtube/?action=play_video&videoid=DKxAO_cvPfg
+
+#EXTINF:1,Γάμος αλά Πλάγια (Μ.Σεφερλής - 2005)
+plugin://plugin.video.youtube/?action=play_video&videoid=0uxkxQ-GhnQ
+
+#EXTINF:1,Η μεγάλη του γέλιου σχολή (Μ.Σεφερλής - 2011)
+plugin://plugin.video.youtube/?action=play_video&videoid=INV2tmw3pDs
