@@ -2,39 +2,6 @@
 
 #EXTM3U
 
-#EXTINF:1,"Πολιτική κουζίνα"
-plugin://plugin.video.youtube/?action=play_video&videoid=TrKFAWK8YlQ
-
-#EXTINF:1,Βγάλ' τον υπουργό απ' την πρίζα
-plugin://plugin.video.youtube/?action=play_video&videoid=FafmFR6i1PQ
-
-#EXTINF:1,Βαλ'τον υπουργό στην πρίζα 18/1/2015
-plugin://plugin.video.youtube/?action=play_video&videoid=J_zMI-LsKHA
-
-#EXTINF:1,Ο κατά φαντασίαν ασθενής
-plugin://plugin.video.youtube/?action=play_video&videoid=UI0uNslt0bc
-
-#EXTINF:1,Ο ΚΟΥΡΕΑΣ ΤΗΣ ΣΕΒΙΛΛΗΣ
-plugin://plugin.video.youtube/?action=play_video&videoid=RQn1_Tik2Aw
-
-#EXTINF:1,Ξενοδοχείο ο Παράδεισος - Πέτρος Φιλιππίδης
-plugin://plugin.video.youtube/?action=play_video&videoid=uAAMQ1w0LjA
-
-#EXTINF:1,Ο ΤΕΛΕΥΤΑΙΟΣ να κλείσει την πόρτα - Γιώργος Κωνσταντίνου
-plugin://plugin.video.youtube/?action=play_video&videoid=Js2_pWko5_g
-
-#EXTINF:1,Πρόσεχε με Α...πατάς - Γιώργος Κωνσταντίνου
-plugin://plugin.video.youtube/?action=play_video&videoid=mRkmsHTH9Fo
-
-#EXTINF:1,Με τη γυναικα του φιλου μου (Βουτσας-Μουστακας)
-plugin://plugin.video.youtube/?action=play_video&videoid=TkBw7VO-e44
-
-#EXTINF:1,Μια τρελή, τρελή σαραντάρα 
-plugin://plugin.video.youtube/?action=play_video&videoid=Nhq1XT2YmYU
-
-#EXTINF:1,Ψύλλοι στ' αφτιά (2015)
-plugin://plugin.video.youtube/?action=play_video&videoid=d2cdXOYyXhI
-
 #EXTINF:1,Σεφερλής Fame zori
 plugin://plugin.video.youtube/?action=play_video&videoid=5IrLJxtShhk
 
@@ -97,3 +64,36 @@ plugin://plugin.video.youtube/?action=play_video&videoid=k3bbrzk_zvw
 
 #EXTINF:1,Markos Seferlis-Στη Φωλιά του Κούκλου 
 plugin://plugin.video.youtube/?action=play_video&videoid=yOr0jngOppA
+
+#EXTINF:1,"Πολιτική κουζίνα"
+plugin://plugin.video.youtube/?action=play_video&videoid=TrKFAWK8YlQ
+
+#EXTINF:1,Βγάλ' τον υπουργό απ' την πρίζα
+plugin://plugin.video.youtube/?action=play_video&videoid=FafmFR6i1PQ
+
+#EXTINF:1,Βαλ'τον υπουργό στην πρίζα 18/1/2015
+plugin://plugin.video.youtube/?action=play_video&videoid=J_zMI-LsKHA
+
+#EXTINF:1,Ο κατά φαντασίαν ασθενής
+plugin://plugin.video.youtube/?action=play_video&videoid=UI0uNslt0bc
+
+#EXTINF:1,Ο ΚΟΥΡΕΑΣ ΤΗΣ ΣΕΒΙΛΛΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=RQn1_Tik2Aw
+
+#EXTINF:1,Ξενοδοχείο ο Παράδεισος - Πέτρος Φιλιππίδης
+plugin://plugin.video.youtube/?action=play_video&videoid=uAAMQ1w0LjA
+
+#EXTINF:1,Ο ΤΕΛΕΥΤΑΙΟΣ να κλείσει την πόρτα - Γιώργος Κωνσταντίνου
+plugin://plugin.video.youtube/?action=play_video&videoid=Js2_pWko5_g
+
+#EXTINF:1,Πρόσεχε με Α...πατάς - Γιώργος Κωνσταντίνου
+plugin://plugin.video.youtube/?action=play_video&videoid=mRkmsHTH9Fo
+
+#EXTINF:1,Με τη γυναικα του φιλου μου (Βουτσας-Μουστακας)
+plugin://plugin.video.youtube/?action=play_video&videoid=TkBw7VO-e44
+
+#EXTINF:1,Μια τρελή, τρελή σαραντάρα 
+plugin://plugin.video.youtube/?action=play_video&videoid=Nhq1XT2YmYU
+
+#EXTINF:1,Ψύλλοι στ' αφτιά (2015)
+plugin://plugin.video.youtube/?action=play_video&videoid=d2cdXOYyXhI
